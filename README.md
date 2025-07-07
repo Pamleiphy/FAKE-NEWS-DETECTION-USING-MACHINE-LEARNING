@@ -91,14 +91,22 @@ Paste a news article into the text box and click Predict!
 
 📈 Results
 Model Performance:
+
 Accuracy: 98%
+
 Precision: 99%
+
 Recall: 98%
 
 
 🛠️ Future Improvements
+
 Deploy online (Streamlit Cloud, Hugging Face Spaces, etc.)
+
 Support for multiple languages
+
 Integration with live news feeds or APIs
+
 Highlight words contributing to prediction
+
 Experiment with deep learning (LSTM, BERT)
